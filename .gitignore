@@ -6,7 +6,7 @@ target/
 
 
 #User defined
-./src/main/java/resources/spring.properties
+./src/main/resources/spring.properties
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
